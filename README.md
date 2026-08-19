@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Jogreen26/Jogreen26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 My AI-Era SEO Strategy Portfolio
 
-Here are some ideas to get you started:
+Welcome to my digital marketing sandbox! I am an aspiring SEO practitioner specializing in adapting traditional search engine optimization for generative AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Current Live Projects
+* **My Sandbox Website:** [Click Here to View My Live GEO Site](https://jogreen26.github.io)
+
+## 🛠️ Core Optimization Skills I'm Practicing:
+1. **Generative Engine Optimization (GEO):** Formatting information architecture for LLM extraction models.
+2. **Answer Engine Optimization (AEO):** Creating punchy, high-density structures to target zero-click answers.
+3. **Technical Indexing:** Implementing structured JSON-LD schema scripts.
+
+---
+*Follow along as I document my DIY studies into the future of search!*
