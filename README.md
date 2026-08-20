@@ -1,15 +1,15 @@
 
-# 🚀 My AI-Era SEO Strategy Portfolio
+# 👋 Hi, I'm Jogreen26!
 
-Welcome to my digital marketing sandbox! I am an aspiring SEO practitioner specializing in adapting traditional search engine optimization for generative AI models.
+Welcome to my digital marketing and SEO sandbox profile. I am an aspiring SEO practitioner actively researching and practicing how to optimize websites for the future of search.
 
-## 🧪 Current Live Projects
-* **My Sandbox Website:** [Click Here to View My Live GEO Site](https://jogreen26.github.io)
+## 🚀 What I'm Focused On Right Now:
+* **GEO (Generative Engine Optimization):** Structuring website content so conversational AI engines like ChatGPT, Gemini, and Perplexity cite my work.
+* **AEO (Answer Engine Optimization):** Designing punchy, "answer-first" data layouts to win direct answers in Google AI Overviews.
+* **Technical SEO:** Writing clean HTML layouts and error-free JSON-LD structured schema codes.
 
-## 🛠️ Core Optimization Skills I'm Practicing:
-1. **Generative Engine Optimization (GEO):** Formatting information architecture for LLM extraction models.
-2. **Answer Engine Optimization (AEO):** Creating punchy, high-density structures to target zero-click answers.
-3. **Technical Indexing:** Implementing structured JSON-LD schema scripts.
+## 🧪 Active Sandbox Projects:
+* 🌐 **My Live Test Site:** [Check out my live SEO Sandbox Website](https://github.io)
 
 ---
-*Follow along as I document my DIY studies into the future of search!*
+*I am actively teaching myself the latest digital marketing trends through hands-on technical experiments!*
