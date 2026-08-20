@@ -9,7 +9,7 @@ Welcome to my digital marketing and SEO sandbox profile. I am an aspiring SEO pr
 * **Technical SEO:** Writing clean HTML layouts and error-free JSON-LD structured schema codes.
 
 ## 🧪 Active Sandbox Projects:
-* 🌐 **My Live Test Site:** [Check out my live SEO Sandbox Website](https://github.io)
+* 🌐 **My Live Test Site:** [Check out my live SEO Sandbox Website](https://jogreen26.github.io)
 
 ---
 *I am actively teaching myself the latest digital marketing trends through hands-on technical experiments!*
